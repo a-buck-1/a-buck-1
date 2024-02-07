@@ -1,7 +1,7 @@
 I’m @a-buck-1
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning Computer Engineering
-- <!-- 📫 How to reach me..
+ <!-- 📫 How to reach me..
 
 <!---
 a-buck-1/a-buck-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
